@@ -1,1 +1,3 @@
-# Seven
+---
+permalink: /index.html
+---
